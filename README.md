@@ -1,5 +1,11 @@
 # Titanic Survival Prediction using Machine Learning
 
+Group Name: Team Vayu
+Group Leader Name: Shobana Balusamy
+Group Leader Registration Number: 23MID0212
+Students Name: Mohanraj I
+Students Registration Number: 23MID0121
+
 A beginner-friendly supervised machine-learning project that predicts whether a Titanic passenger survived based on passenger information such as class, sex, age, fare, family relationships, and port of embarkation.
 
 ## Project Overview
